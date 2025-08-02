@@ -28,19 +28,25 @@ Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo ex
 
 <a href="https://github.com/Justzombiex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justzombiex&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### 📌 Repositorios destacados
 
-<div width="100%" align="center">
-   <a href="https://github.com/Justzombiex/brian-portfolio" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" />
-  </a>
-  <a href="https://github.com/Justzombiex/CodeAgenda" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Justzombiex/Aquarius" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-<br /><br />
-<br /><br />
-<br /><br /><br />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Justzombiex/brian-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Justzombiex/CodeAgenda">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Justzombiex/Aquarius">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" />
+      </a>
+    </td>
+  </tr>
+</table>
+
