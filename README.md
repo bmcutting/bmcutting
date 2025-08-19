@@ -7,7 +7,7 @@ Ingeniero en Automática
 Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo experiencia en programación con .NET (C#) y en la integración de equipos mediante protocolos como Modbus TCP, MQTT y Profinet. Actualmente estoy desarrollando la capa visual de los proyectos, utilizando tecnologías como Angular, React, HTML, CSS y principios de diseño de interfaces. Me encuentro en constante crecimiento, ampliando mis habilidades para ofrecer soluciones completas e integradas.
 
 * 🌍  I'm based in La Habana
-* 🖥️  See my portfolio at [PORTFOLIO](https://justzombiex.github.io/brian-portfolio/)
+* 🖥️  See my portfolio at [PORTFOLIO](https://bmcutting.github.io/brian-portfolio/)
 * ✉️  You can contact me at [bmoralescutting@gmail.com](mailto:bmoralescutting@gmail.com)
 * 🚀  I'm currently working on Code Agenda Front End
 * 🧠  I'm learning React.js
