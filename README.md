@@ -25,23 +25,29 @@ Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo ex
 
 <p align="left"> <a href="https://www.github.com/Justzombiex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/brianmi_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/brian-michel-morales-cutting-93597925a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcutting&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcutting&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 
 <h3>📌 Featured Repositories</h3>
-  
-<a href="https://github.com/bmcutting/brian-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
-</a>
 
-
-<a href="https://github.com/bmcutting/CodeAgenda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
-</a>
-
-
-<a href="https://github.com/bmcutting/Aquarius">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/bmcutting/brian-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/bmcutting/CodeAgenda">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/bmcutting/Aquarius">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
