@@ -30,19 +30,26 @@ Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcutting&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">📌 Featured Repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/bmcutting/brian-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bmcutting/CodeAgenda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bmcutting/Aquarius">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" />
+  </a>
+</p>
+
 
 
 
