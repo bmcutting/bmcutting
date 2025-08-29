@@ -27,7 +27,7 @@ Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo ex
 
 
 <a href="https://github.com/Justzombiex" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justzombiex&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcutting&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=3600" alt="Top Languages" />
 </a>
 
 
