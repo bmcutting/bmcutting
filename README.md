@@ -33,13 +33,13 @@ Ingeniero Automático con enfoque en desarrollo de software industrial. Tengo ex
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=brian-portfolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=CodeAgenda&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justzombiex&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmcutting&repo=Aquarius&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
     </td>
   </tr>
 </table>
